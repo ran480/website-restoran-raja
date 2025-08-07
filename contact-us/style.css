@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(/images-restaurant/33137955_8005817.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-position: top;
+}
+#wrapper {
+    margin: 0 auto;
+}
+
+#menu {
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+
+}
+
+#menu ul {
+    background-color: #ffff;
+    border: solid #000 5px;
+    width: 826.3px;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+#menu ul li {
+    list-style: none;
+    display: inline-block;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding: auto;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: black;
+    font-family: Impact, HGPSoeiKakugothicUB, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+}
+
+.contact-us {
+width: 100%;
+max-width: 651px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 25px;
+}
+
+.w-1058 {
+  background: #5f88c0;
+  border-radius: 15px;
+  padding: 24px;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1058px;
+  height: 540px;
+}
+
+.w-1058 p {
+margin-bottom: 60px;
+border-radius: 5px;
+font-size: 14px;
+font-family: Impact, HGPSoeiKakugothicUB, 'Arial Narrow Bold', sans-serif;
+text-align: left;
+text-decoration: none;
+color: white;
+list-style: none; 
+font-size: 32.34px;
+}
+
+
+.w-1058-2 {
+  background: #5f88c0;
+  border-radius: 15px;
+  padding: 24px;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1058px;
+}
+.contact-form {
+  background: #5f88c0;
+  border-radius: 10px;
+}
+
+
+.form-club {
+  margin-bottom: 1.25px;
+}
+
+.form-club label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 26px;
+  color: white;
+  text-align: left;
+  font-family: Impact, HGPSoeiKakugothicUB, 'Arial Narrow Bold', sans-serif;
+}
+
+.required {
+  color: white;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+  width: 100%;
+  padding: 0.6rem;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  margin-bottom: 20px;
+}
+
+.form-submit {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.footer {
+background-color: #f9f3d1;
+margin-top: 90px;
+padding-top: 50px;
+}
+
+.footer .logo {
+    width: 155px;
+    height: 73px;
+}
+
+.banner-penutup {
+    width: 513px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    font-family: Impact, HGPSoeiKakugothicUB, 'Arial Narrow Bold', sans-serif;
+}
+
+.teks p {
+    margin-bottom: 30px;
+}

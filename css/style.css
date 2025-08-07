@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(/images-restaurant/33137955_8005817.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#wrapper {
+    margin: 0 auto;
+}
+
+#menu {
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+
+}
+
+#menu ul {
+    background-color: #ffff;
+    border: solid #000 5px;
+    width: 826.3px;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+#menu ul li {
+    list-style: none;
+    display: inline-block;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding: auto;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: black;
+    font-family: Impact, HGPSoeiKakugothicUB, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+}
+.main-visual {
+    width: 100%;
+    max-width: 1138px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.news {
+    color: white;
+    padding: 20px 80px 10px;
+    text-align: center;
+    font-size: 13px;
+}
+
+.news h2 {
+    font-size: 62px;
+    margin-bottom: 30px;
+}
+
+.w-914 {
+background-color: #3c608c;
+width: 914px;
+border: solid 5px #000;
+border-radius: 50px;
+padding-top: 10px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+}
+
+.isi-news ul li {
+margin-bottom: 20px;
+border-radius: 5px;
+font-size: 14px;
+font-family: Impact, HGPSoeiKakugothicUB, 'Arial Narrow Bold', sans-serif;
+text-align: left;
+text-decoration: none;
+color: white;
+list-style: none;
+}
+
+.isi-news a {
+    color: white;
+    font-size: 34.58px;
+    text-decoration: none;
+}
+
+.w-671 {
+background-color: white;
+width: 671px;
+border: solid 5px #000;
+border-radius: 50px;
+padding-top: 10px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+padding-bottom: 2%;
+}
+
+.menu-2 {
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+
+.menu-2 h2 {
+ font-size: 58.34px;
+ margin-bottom: 30px;
+}
+
+.lihat-menu-2 {
+ margin-top: 10px;
+}
+
+.w-502 {
+background-color: #f9f3d1;
+width: 502px;
+border: solid 5px #000;
+border-radius: 30px;
+padding-top: 10px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+padding-bottom: 30px;
+height: 207px;
+}
+
+.follower {
+margin-left: auto;
+margin-right: auto;
+text-align: center;   
+}
+
+.follower h2 {
+font-size: 30.59px;
+margin-bottom: 40px;
+}
+
+.instagram {
+margin-left: 15px;
+margin-right: 15px;
+}
+
+.youtube {
+margin-left: 15px;
+margin-right: 15px;
+}
+
+.twitter {
+margin-left: 15px;
+margin-right: 15px;
+}
+
+.line {
+margin-left: 15px;
+margin-right: 15px;
+}
+
+.footer {
+background-color: #f9f3d1;
+margin-top: 90px;
+padding-top: 50px;
+}
+
+.footer .logo {
+    width: 155px;
+    height: 73px;
+}
+
+.banner-penutup {
+    width: 513px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    font-family: Impact, HGPSoeiKakugothicUB, 'Arial Narrow Bold', sans-serif;
+}
+
+.teks p {
+    margin-bottom: 30px;
+}
